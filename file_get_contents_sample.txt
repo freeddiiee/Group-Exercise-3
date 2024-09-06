@@ -1,0 +1,3 @@
+Geminaries Marcelino
+BSIT-3M 
+File_get_content example
